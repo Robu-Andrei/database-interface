@@ -1,0 +1,9 @@
+__pycache__
+build
+dist
+Licenta_desktop
+venv
+install.bat
+main.spec
+requirements.txt
+start.bat
